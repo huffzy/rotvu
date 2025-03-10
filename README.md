@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @rotvu or sean
+- 👋 Hi, I’m @huffzy or sean
 - 🌱 I’m currently learning Java and Python
-- 📫 How to reach me: via email stf5105@gmail.com or twitter @rotvu
+- 📫 How to reach me: via email stf5105@gmail.com or twitter @huffzys
 
 <!---
 rotvu/rotvu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
